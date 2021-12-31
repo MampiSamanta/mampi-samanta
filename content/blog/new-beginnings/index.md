@@ -1,7 +1,7 @@
 ---
 title: Mampi Samanta
-date: "2021-11-28T22:40:32.169Z"
-description: Mampi Samanta is a M.sc student at Future Institute of Engineering & Management. This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+date: "2021-12-28T22:40:32.169Z"
+description: Mampi Samanta is a M.sc student at Dinaadhu Andrews Institute of Technology & Management. This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and
